@@ -10,5 +10,5 @@ Try playing this roulette game! You will have two attempts to guess a number bet
 
 how to convert this py file to exe:
 1. pip3 install pyinstaller or pip install pyinstaller
-2. pyinstaller --onefile -noconsole [file name]
+2. pyinstaller --onefile --noconsole [file name]
 3. navigate to dist folder then enjoy
